@@ -1,0 +1,11 @@
+{
+  "model_aliases": {
+    "gpt-image-1": "z_image_turbo_1.0_i8x.ckpt"
+  },
+  "resolution_profile": "true_4k",
+  "default_aspect_ratio": "1:1",
+  "default_image_size": "1K",
+  "debug_log_requests": true,
+  "max_side": 4096,
+  "save_directory": "~/Pictures/FDOS-DrawThings"
+}
